@@ -12,7 +12,6 @@ I'm a passionate **Backend Developer** with expertise in **Python**, **FastAPI**
 I’m always excited to connect with like-minded professionals and learn new things. Feel free to reach out to me!
 
 - 📧 Email: [jagdishhanamshetty96@gmail.com](mailto:jagdishhanamshetty96@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/jrjagdish](https://www.linkedin.com/in/jagdish)
 
 ## 🌱 What I'm Currently Working On:
 - **Building scalable backend systems** that can handle thousands of requests per second. 
